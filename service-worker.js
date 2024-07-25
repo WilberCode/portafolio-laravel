@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/portafolio-laravel/precache-manifest.53e1ff43f832a3937381c47600ba6abc.js"
+  "/portafolio-laravel/precache-manifest.f96ca14abb9553179b0123e8534a3a8a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "porfolio"});
