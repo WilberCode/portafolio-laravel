@@ -15,11 +15,11 @@
 
                   <h2>  Capacidades Técnicas y Disponibilidad </h2> <br>
                   <h3>  Recursos Técnicos: </h3>
-                  <p>Buena capacidad de cómputo y conexión de internet <br class="hidden-sm-and-down"> estable para asegurar el
-                    trabajo y comunicación fluida.</p>
+                  <p>Cuento con un equipo de cómputo robusto y una conexión a internet estable,<br class="hidden-sm-and-down">
+                    asegurando así un trabajo eficiente y una comunicación fluida en todo momento.</p>
                   <h3>  Disponibilidad: </h3> 
-                  <p>Brindo soluciones en cualquier momento si se presentan problemas, <br class="hidden-sm-and-down" > garantizando
-                    continuidad y eficiencia en los proyectos.</p>
+                  <p>Estoy siempre disponible para ofrecer soluciones rápidas cuando surjan problemas,<br class="hidden-sm-and-down">
+                    garantizando la continuidad y eficiencia de los proyectos.</p>
                  </div>
                 </v-flex>
             </v-layout>

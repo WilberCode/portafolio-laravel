@@ -6,7 +6,9 @@
       <div class="banner-bio">
         <h2>Hola, Soy Wilber.</h2> 
         <p>
-          Un desarrollador web con 4 años de experiencia y especializado en la creación de páginas web con WordPress, tiendas en línea con WooCommerce y Shopify, y optimización SEO. También soy desarrollador FULLSTACK junior con experiencia en LARAVEL, capaz de manejar tanto el front-end como el back-end. Estoy entusiasmado por contribuir en proyectos que integren mis habilidades y seguir creciendo en el desarrollo fullstack con Laravel.
+          Desarrollador fullstack con LARAVEL, con más de 1 año de experiencia. Con conocimientos sólidos tanto en el backend como en el frontend, capaz de diseñar, desarrollar y mantener aplicaciones completas, desde la base de datos hasta la interfaz de usuario.   <br> <br>
+          Además, soy desarrollador fullstack con más de 4 años de experiencia en WordPress, WooCommerce, Shopify, y optimización SEO.   
+
         </p>
       </div>
        
@@ -21,7 +23,7 @@
         </div>
         <div class="d-flex  align-center" >
            <div class="ml-4">
-             <p class="mb-2 font-weight-bold banner-avatar-number	">Phone: <a href="tel:+51926776516">926776516</a></p>  
+             <p class="mb-2 font-weight-bold banner-avatar-number	">Teléfono: <a href="tel:+51926776516">926776516</a></p>  
              <p  class="mb-0 " >Lima - Perú</p> 
            </div>
         </div>

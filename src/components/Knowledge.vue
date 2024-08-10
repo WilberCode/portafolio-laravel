@@ -97,7 +97,7 @@
                 >
                 {{ valueProgress-5 }}%
                 </v-progress-circular>
-                <p>React.js, Next.js, Vue.js, Babel & Webpack</p>
+                <p>React.js, Next.js, Vue.js, Vite, Babel & Webpack</p>
               </v-flex>   
               <v-flex xs12 sm6 md4 lg3 xl3>  
                 <v-progress-circular
